@@ -1,64 +1,110 @@
-## Hi, I'm Fariha Mhaskar 👋
+# Hi, I'm Fariha Mhaskar 👋
 
-### B.Sc. Information Technology Student
+### B.Sc. Information Technology Student | Software Development | Exploring Cybersecurity
 
-Welcome to my GitHub! I'm a B.Sc. Information Technology student with a growing interest in cybersecurity, Python, and computer networking. I enjoy building cybersecurity projects, solving hands-on labs, and continuously expanding my technical knowledge.
+Welcome to my GitHub!
+
+I'm a B.Sc. Information Technology student interested in software development and building practical applications. I enjoy learning by working on projects and experimenting with different technologies.
+
+Alongside software development, I'm exploring cybersecurity through hands-on projects, networking, TryHackMe labs, and Cisco Networking Academy courses.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 B.Sc. Information Technology student from Maharashtra, India.
-- 🔐 Developing practical cybersecurity skills through self-learning and hands-on projects.
-- 🌱 Exploring cybersecurity with Python projects, Cisco Networking Academy, and TryHackMe labs.
+- 💻 Interested in software development and building practical applications.
+- 🐍 Working with Python, C, C++, and Java.
+- 🌐 Exploring web development with HTML, CSS, JavaScript, and Bootstrap.
+- 🗄️ Learning Database Management with Oracle, SQL, and PL/SQL.
+- 🔐 Exploring cybersecurity through hands-on projects and labs.
+- 🌐 Building my understanding of computer networking and network security.
 - 🏆 Cisco Networking Academy – Introduction to Cybersecurity Certified.
-- 💻 Building Python-based security tools and maintaining my projects on GitHub.
-- 🎯 Interested in SOC, Network Security, Digital Forensics, and Vulnerability Assessment & Penetration Testing (VAPT).
+- 🚀 Using Git and GitHub to build and share my projects.
+
+---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages:** Python, C, C++, Core Java
+**Programming Languages:**  
+Python, C, C++, Core Java
 
-**Networking:** TCP/IP, OSI Model, IP Addressing, DNS, HTTP/HTTPS
+**Web Technologies:**  
+HTML, CSS, JavaScript, Bootstrap
 
-**Operating Systems:** Windows, Ubuntu Linux
+**Database:**  
+Oracle, SQL, PL/SQL
 
-**Web Technologies:** HTML, CSS, JavaScript, PHP
+**Networking:**  
+TCP/IP, OSI Model, IP Addressing, DNS, HTTP/HTTPS
 
-**Database:** MySQL
+**Operating Systems:**  
+Windows, Ubuntu Linux, Kali Linux
 
-**Tools:** Git, GitHub, VS Code
+**Tools:**  
+Git, GitHub, VS Code
 
-**Cybersecurity Learning:** Cisco Introduction to Cybersecurity, TryHackMe Labs, Classical Cryptography, Network Security Fundamentals
+**Cybersecurity:**  
+Cybersecurity Fundamentals, Cryptography, Hashing, Network Security Fundamentals
 
-## 📜 Certifications
+---
+
+## 📜 Certifications & Learning
 
 - Cisco Networking Academy – Introduction to Cybersecurity
-- TryHackMe – Completed 10+ cybersecurity labs
+- TryHackMe – Hands-on cybersecurity labs
+
+---
+
+## 🚀 Projects
+
+### 🔐 CYBERGUARD – Cyber Security Toolkit
+A Python-based modular cybersecurity toolkit combining multiple security utilities into one command-line application.
+
+### 🔐 Caesar Cipher Encryption Tool
+A Python command-line application for encrypting and decrypting text using the Caesar Cipher algorithm.
+
+### 🌐 Python Port Scanner
+A Python-based TCP port scanner built using socket programming to explore networking and reconnaissance concepts.
+
+### 🔑 Password Strength Analyzer
+A Python application that checks password strength based on common security requirements and provides feedback for creating stronger passwords.
+
+### 🌍 Personal Portfolio Website
+A responsive website showcasing my projects, skills, certifications, and achievements.
+
+### 🎯 Number Guessing Game
+Console-based number guessing games developed in both C and C++, using loops, conditional statements, user input, and random number generation.
+
+### 🏥 Hospital Management System
+A Java-based project developed to explore application development and object-oriented programming concepts.
+
+### 🏦 Bank Management System
+A project developed to explore programming and basic application management concepts.
+
+---
 
 ## 🌱 Currently Learning
 
-- Linux for Cybersecurity
-- Network Security Fundamentals
-- Security Operations Center (SOC) Concepts
+- Software development and programming
+- Python and Java
+- Database Management with Oracle and SQL/PLSQL
+- Computer networking
+- Linux
+- Cybersecurity fundamentals
 - Hands-on cybersecurity labs through TryHackMe
 
-## 🚀 Featured Projects
+---
 
-### 🔐 Caesar Cipher Encryption Tool
-A Python command-line application that encrypts and decrypts text using the Caesar Cipher algorithm with customizable shift values and input validation.
+## 🏆 Achievements
 
-### 🌐 Python Port Scanner
-A Python-based TCP port scanner built using socket programming to identify open ports and strengthen networking and reconnaissance fundamentals.
+- 🥇 1st Rank – Code Phoenix
+- 🥉 3rd Rank – Code-IT Competition
+- 👩‍💼 Class Representative – SYBSc Information Technology
 
-### 🔑 Password Strength Analyzer
-A Python application that analyzes password strength based on security best practices and provides recommendations for creating stronger passwords.
-
-### 🌍 Personal Portfolio Website
-A responsive portfolio website showcasing my technical projects, certifications, achievements, and GitHub repositories.
+---
 
 ## 📫 Connect With Me
 
-- 📧 Email: fariha.mhaskar07@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/fariha-mhaskar-20543a415
-
+- 💼 LinkedIn: [Fariha Mhaskar](https://www.linkedin.com/in/fariha-mhaskar-20543a415)
+- 💻 GitHub: [farihamhaskar](https://github.com/farihamhaskar)
